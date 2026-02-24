@@ -1,34 +1,30 @@
 {
-  "name": "My Example Source",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
+  "name": "Ma Source Beluga",
+  "subtitle": "Apps & Plus",
+  "description": "Bienvenue sur ma source personnalisée !",
+  "iconURL": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stremio.webp",
+  "website": "https://neocities.org",
   "tintColor": "#6156e2",
-  "featuredApps": [],
   "apps": [
     {
-      "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.SideStore",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/aX9Lorv.png",
-      "tintColor": "#04d4f9",
-      "category": "other",
-      "screenshots": [],
+      "name": "Stremio Hacked",
+      "bundleIdentifier": "com.stremio.ios.beluga",
+      "developerName": "iOSGods",
+      "subtitle": "Films et Séries",
+      "localizedDescription": "Version modifiée de Stremio.",
+      "iconURL": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stremio.webp",
+      "tintColor": "#7a5af5",
+      "category": "entertainment",
       "versions": [
         {
-          "version": "0.6.2",
-          "date": "2026-02-24T15:11:00+01:00",
+          "version": "2.0",
+          "date": "2026-02-24T19:00:00+01:00",
           "downloadURL": "https://drive.google.com/uc?export=download&id=19sDYBxzqTn8Zb9vWjlIx9l58L-JqeY9Y",
           "size": 28900000,
-          "buildVersion": "0.6.2.1",
+          "buildVersion": "2.0.1",
           "minOSVersion": "12.0"
         }
       ]
     }
-  ],
-  "news": []
+  ]
 }
