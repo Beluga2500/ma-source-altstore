@@ -2,7 +2,7 @@
   "name": "Ma Source Beluga",
   "subtitle": "Apps & Plus",
   "description": "Bienvenue sur ma source personnalisée !",
-  "iconURL": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stremio.webp",
+  "iconURL": "https://imgur.com/a/tf4RK4Q",
   "website": "https://neocities.org",
   "tintColor": "#6156e2",
   "apps": [
@@ -12,7 +12,7 @@
       "developerName": "iOSGods",
       "subtitle": "Films et Séries",
       "localizedDescription": "Version modifiée de Stremio.",
-      "iconURL": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/stremio.webp",
+      "iconURL": "https://imgur.com/a/tf4RK4Q",
       "tintColor": "#7a5af5",
       "category": "entertainment",
       "versions": [
