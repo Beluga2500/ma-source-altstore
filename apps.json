@@ -8,7 +8,7 @@
   "apps": [
     {
       "name": "Stremio Hacked",
-      "bundleIdentifier": "com.stremio.ios.beluga",
+      "bundleIdentifier": "com.stremio.ios",
       "developerName": "iOSGods",
       "subtitle": "Films et Séries",
       "localizedDescription": "Version modifiée de Stremio.",
