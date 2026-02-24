@@ -11,7 +11,6 @@
     {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
-      "marketplaceID": "",
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
@@ -23,20 +22,12 @@
         {
           "version": "0.6.2",
           "date": "2026-02-24T15:11:00+01:00",
-          "localizedDescription": null,
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.2/SideStore.ipa",
           "size": 28900000,
           "buildVersion": "0.6.2.1",
           "minOSVersion": "12.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
-        }
-      },
-      "patreon": {}
+      ]
     }
   ],
   "news": []
